@@ -7,7 +7,7 @@
 	file ext:	cs
 	author:		Author
 	
-	purpose:	·������
+	purpose:	路径定义
 *********************************************************************/
 using System;
 using System.Collections.Generic;

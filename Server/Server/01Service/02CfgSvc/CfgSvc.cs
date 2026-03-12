@@ -38,7 +38,7 @@ public class CfgSvc
     private void InitGuideCfg()
     { 
             XmlDocument doc = new XmlDocument();
-            doc.Load(@"E:\unityproject\DarkGod\Assets\Resources\ResCfgs\guide.xml");
+            doc.Load(@"E:\unityproject\DarkGod\DarkdGod\Assets\Resources\ResCfgs\guide.xml");
             XmlNodeList xmlNodeList = doc.SelectSingleNode("root").ChildNodes;
             for (int i = 0; i < xmlNodeList.Count; i++)
             {
@@ -85,7 +85,7 @@ public class CfgSvc
     private void InitTaskCfg()
     { 
         XmlDocument doc = new XmlDocument();
-        doc.Load(@"E:\unityproject\DarkGod\Assets\Resources\ResCfgs\taskreward.xml");
+        doc.Load(@"E:\unityproject\DarkGod\DarkdGod\Assets\Resources\ResCfgs\taskreward.xml");
         XmlNodeList xmlNodeList = doc.SelectSingleNode("root").ChildNodes;
         for (int i = 0; i < xmlNodeList.Count; i++)
         {
@@ -134,7 +134,7 @@ public class CfgSvc
     private void InitStrongCfg()
     {
             XmlDocument doc = new XmlDocument();
-            doc.Load(@"E:\unityproject\DarkGod\Assets\Resources\ResCfgs\strong.xml");
+            doc.Load(@"E:\unityproject\DarkGod\DarkdGod\Assets\Resources\ResCfgs\strong.xml");
             XmlNodeList xmlNodeList = doc.SelectSingleNode("root").ChildNodes;
             for (int i = 0; i < xmlNodeList.Count; i++)
             {
@@ -221,7 +221,7 @@ public class CfgSvc
     public void InitMapCfg()
     {
         XmlDocument doc = new XmlDocument();
-        doc.Load(@"E:\unityproject\DarkGod\Assets\Resources\ResCfgs\map.xml");
+        doc.Load(@"E:\unityproject\DarkGod\DarkdGod\Assets\Resources\ResCfgs\map.xml");
         XmlNodeList xmlNodeList = doc.SelectSingleNode("root").ChildNodes;
         for (int i = 0; i < xmlNodeList.Count; i++)
         {

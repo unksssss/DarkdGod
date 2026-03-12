@@ -11,3 +11,14 @@ E:\unityproject\DarkGod\Server\Server\bin\Debug\PESocket.pdb
 E:\unityproject\DarkGod\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
 E:\unityproject\DarkGod\Server\Server\obj\Debug\Server.csproj.Up2Date
 E:\unityproject\DarkGod\Server\Server\bin\Debug\MySql.Data.dll
+E:\unityproject\DarkGod\DarkdGod\Server\Server\bin\Debug\Server.exe.config
+E:\unityproject\DarkGod\DarkdGod\Server\Server\bin\Debug\Server.exe
+E:\unityproject\DarkGod\DarkdGod\Server\Server\bin\Debug\Server.pdb
+E:\unityproject\DarkGod\DarkdGod\Server\Server\bin\Debug\PEProtocol.dll
+E:\unityproject\DarkGod\DarkdGod\Server\Server\bin\Debug\PEProtocol.pdb
+E:\unityproject\DarkGod\DarkdGod\Server\Server\bin\Debug\PESocket.pdb
+E:\unityproject\DarkGod\DarkdGod\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\unityproject\DarkGod\DarkdGod\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\unityproject\DarkGod\DarkdGod\Server\Server\obj\Debug\Server.csproj.Up2Date
+E:\unityproject\DarkGod\DarkdGod\Server\Server\obj\Debug\Server.exe
+E:\unityproject\DarkGod\DarkdGod\Server\Server\obj\Debug\Server.pdb
